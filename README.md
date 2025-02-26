@@ -2,7 +2,7 @@
 
 [![Vercel Deployment](https://vercel.com/button)](https://finix-selimur-rajis-projects.vercel.app/)
 
-🚀 **Finix** is a modern and professional financial services website designed to provide seamless user experience and reliable financial solutions.
+🚀 **Finix** is a modern and professional financial services website designed to provide a seamless user experience and reliable financial solutions.
 
 ## 🔗 Live Demo
 [Visit the Website](https://finix-selimur-rajis-projects.vercel.app/)
@@ -19,8 +19,9 @@
 - **Deployment:** Vercel  
 
 ## 📷 Screenshots
-![Finix Screenshot](https://drive.google.com/file/d/1EJSWPclfFJccfNwiI0fYGh6H7vOhpaBx/view?usp=sharing)  
-*(Replace the above link with an actual screenshot of your site)*  
+
+![finix_Website](https://github.com/user-attachments/assets/511c5ab6-a30b-4f60-905d-634672e83fa1)
+
 
 ## 🚀 Getting Started
 To run this project locally:  
