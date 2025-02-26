@@ -20,7 +20,7 @@ CSS INDEX
 /*----------------------------------------*/
 /* 1. Theme default css */
 
-@import url('https://fonts.googleapis.com/css2?family=KoHo:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
 
 * {
   margin: 0;
@@ -91,7 +91,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "KoHo", serif;
+  font-family: "Oswald", serif;
   font-weight: 500;
   color: #111111;
   margin-top: 0px;
@@ -102,7 +102,7 @@ h6 {
 a {
   text-decoration: none;
   color: #111111;
-  font-family: "KoHo", serif;
+  font-family: "Oswald", serif;
 }
 
 h1 a,
@@ -513,10 +513,14 @@ ul.main-menu li a span i {
 
 /* slider content css */
 
-.slider-content span {
-  font-size: 18px;
+.slider-content span, .finix-text span {
+  font-size: 14px;
   font-weight: 400;
-  color: #e83b3e;
+  color: white;
+  text-transform: uppercase;
+  background: #e83b3e;
+  padding: 10px;
+  border-radius: 30px;
 }
 
 .slider-content h1 {
@@ -661,10 +665,7 @@ ul.main-menu li a span i {
   color: #111;
 }
 
-.finix-text span {
-  font-size: 16px;
-  color: #e73c3e;
-}
+
 
 .finix-text h2 {
   font-size: 40px;
@@ -926,9 +927,7 @@ ul.main-menu li a span i {
   text-align: center;
 }
 
-.calculate-rate .finix-text span {
-  color: #606060;
-}
+
 
 .form-select {
   color: #606060;
