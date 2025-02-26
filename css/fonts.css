@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rubik', sans-serif;
+    src:  url(Rubik-Light.ttf),url(Rubik-Regular.ttf),url(Rubik-Medium.ttf),url(Rubik-SemiBold.ttf),url(Rubik-Bold.ttf),url(Rubik-ExtraBold.ttf), url(Rubik-Black.ttf);
+    font-weight:300, 400, 500, 600, 700, 800, 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url(Roboto-Regular.ttf), url(Roboto-Bold.ttf), url(Roboto-Medium.ttf), url(Roboto-Light.ttf), url(Roboto-Thin.ttf), url(Roboto-Black.ttf);
+    font-weight: 400, 700, 500, 300, 100, 900;
+    font-style: normal;
+}
